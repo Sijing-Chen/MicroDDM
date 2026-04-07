@@ -16,6 +16,6 @@ This repository contains the Python scripts used for image processing, parameter
 * **`Steady Params Distribution.py`**: Plots the distribution of steady-state parameters (Related: Fig S9a).
 * **`Dynamic Params Distribution.py`**: Analyzes dynamic parameters (distributions, correlation matrix, and PCA) (Related: Fig S9b, c, d).
 
-**3. Modeling & Simulation**
+**3. Simulation**
 * **`DDM simulation.py`**: Compares the Dynamic Delay Model and standard ODE model against experimental data (Related: Fig 6c, Fig S7).
 * **`Noise.py`**: Runs simulations with added stochastic noise across the full induction matrix (Related: Fig 6d, Fig S8).
