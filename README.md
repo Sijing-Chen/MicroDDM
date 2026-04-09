@@ -1,6 +1,6 @@
 # MicroDDM 
 
-**Official code and data for the paper:** *A Dual-Layer Microfluidic Platform for the Characterization of Synthetic Multi-Input Bistable Circuits*
+**Official code and data for the paper:** *A Dual-Layer Microfluidic Platform for the Characterization of a Synthetic Multi-Input Bistable Circuit*
 
 This repository contains the Python scripts and processed datasets used for image processing, parameter fitting, and Dynamic Delay Modeling (DDM) simulations.
 
